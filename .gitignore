@@ -1,0 +1,14 @@
+db.sqlite3
+__pycache__/
+media/
+
+# Carpeta node_modules de Vue.js
+node_modules/
+
+# Archivos generados por Vue CLI
+dist/
+.env
+.env.local
+.env.development
+.env.test
+.env.production
